@@ -10,7 +10,7 @@ The system allows users to browse a menu, manage a shopping cart, place orders w
 
 ## Features
 
-### 🛒 Customer Module
+### Customer Module
 * **Dynamic Menu Display:** View current food items categorized by type (Pizza, Burger, Drinks, etc.) with prices.
 * **Cart Management:**
     * Add items by ID and specify quantity.
